@@ -1,0 +1,41 @@
+{
+    "asset": "04a70e14f8b77724fa160d41e2311b6e",
+    "fileName": "01a20b04-7e8b-7b54-9789-ed8e92826b3b.png",
+    "prompt": "ONE flat printable square natural-feature AR image tracking target. Opaque white background, crisp black ink architectural engraving, no color, no transparency, no paper mockup. AGROINDUSTRI: detailed agricultural processing campus with grain silos upper left, greenhouse lower right, winding access road, tractor, irregular crop parcels and leafy botanical sprig lower left. Asymmetric composition, sharp medium-scale corners and intersections across entire card, varied crosshatching, strong grayscale contrast. Avoid repetitive grids, symmetry, large blank or solid black areas, and hairline-only detail. 3 percent white margin. Small bottom label exactly '01 AGROINDUSTRI'. One cohesive illustration, no panels, QR codes, barcodes, watermark.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "cfd78dc8e54bd5347b15cdd859ad2fd7",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "asset": "435ddecb6409fb84297cb20feb81940c",
+    "fileName": "01a20b04-feb0-7884-853c-269f503a805f.png",
+    "prompt": "ONE flat printable square natural-feature AR image target. Inspired by reference's high-contrast ink edges but replace abstract geometry with crisp black ink architectural engraving. Opaque white background, no color or transparency, no mockup. KANTOR DAN RS: tall stepped office tower upper right, lower hospital complex center left with medical cross above entrance, ambulance lower right, landscaped garden and tree branches lower left, angled walkways and entrance steps. Asymmetric layout, medium-scale sharp corners and intersections across entire card, varied crosshatching, strong grayscale contrast. Avoid uniform window grids, symmetry, large blank or solid black areas and hairline-only detail. 3 percent white margin. Small bottom label exactly '05 KANTOR DAN RS'. One cohesive illustration, no panels, QR codes, barcodes, watermark.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "cfd78dc8e54bd5347b15cdd859ad2fd7",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

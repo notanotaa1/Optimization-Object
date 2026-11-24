@@ -1,0 +1,41 @@
+{
+    "asset": "922cab070c90bea41a96af8915686eac",
+    "fileName": "01a20b04-8db4-7eef-9e55-7c4f863c5907.png",
+    "prompt": "ONE flat printable square natural-feature AR image target. Inspired by reference's high-contrast ink edges but replace abstract geometry with crisp black ink industrial engraving. Opaque white background, no color or transparency, no mockup. INDUSTRI: sawtooth-roof manufacturing factory upper left, three chimneys of different heights center right, interlocking mechanical gears lower left, articulated robotic arm lower right, irregular industrial pipework. Asymmetric composition, sharp medium-scale corners and intersections distributed across entire card, varied crosshatching, strong grayscale contrast. Avoid repetitive grids, symmetry, large blank or solid black areas and hairline-only detail. 3 percent white margin. Small bottom label exactly '04 INDUSTRI'. One cohesive illustration, no panels, QR codes, barcodes, watermark.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "cfd78dc8e54bd5347b15cdd859ad2fd7",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

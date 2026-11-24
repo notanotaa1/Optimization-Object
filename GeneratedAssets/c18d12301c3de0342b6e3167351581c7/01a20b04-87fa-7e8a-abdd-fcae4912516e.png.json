@@ -1,0 +1,41 @@
+{
+    "asset": "c18d12301c3de0342b6e3167351581c7",
+    "fileName": "01a20b04-87fa-7e8a-abdd-fcae4912516e.png",
+    "prompt": "ONE flat printable square natural-feature AR image target. Inspired by reference's high-contrast ink edges but replace abstract geometry with crisp black ink architectural engraving. Opaque white background, no color or transparency, no mockup. GUDANG: large gabled warehouse diagonally across center, loading docks, forklift upper left, irregular wooden crates lower right, delivery truck lower left, parcel conveyor upper right. Asymmetric layout, sharp roof and crate corners, varied crosshatched textures across entire card, medium detail, strong grayscale contrast. Avoid repetitive grids, symmetry, large blank or solid black areas and hairline-only detail. 3 percent white margin. Small bottom label exactly '03 GUDANG'. One cohesive illustration, no panels, QR codes, barcodes, watermark.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "cfd78dc8e54bd5347b15cdd859ad2fd7",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}

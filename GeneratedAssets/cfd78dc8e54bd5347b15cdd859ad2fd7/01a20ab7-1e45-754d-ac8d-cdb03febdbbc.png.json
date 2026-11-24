@@ -1,0 +1,31 @@
+{
+    "asset": "cfd78dc8e54bd5347b15cdd859ad2fd7",
+    "fileName": "01a20ab7-1e45-754d-ac8d-cdb03febdbbc.png",
+    "prompt": "A flat printable square natural-feature AR image tracking target, NOT a QR code or ArUco marker. Crisp black and white technical pen-and-ink abstract collage, opaque white background. Asymmetrical composition with many unique high contrast corners and junctions evenly distributed across the entire image: varied irregular angular polygons, broken linework, crosshatched patches, offset stepped silhouettes, triangles and intersecting strokes. Each quadrant distinctly different. Mix small medium and large details legible printed at 15 cm square. No rotational symmetry, no mirror symmetry, no repeating tiles, no repetitive identical shapes, no large blank regions, no concentric circles, no gradients. Narrow white margin 3 percent on all sides. Sharp orthographic 2D graphic fills canvas. No text, letters, digits, logos, watermark, shadows, perspective, photographed paper, mockup or 3D objects.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0,
+    "dynamicParams": {
+        "serializedData": []
+    }
+}
